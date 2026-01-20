@@ -6,9 +6,8 @@
     "minor": 0,
     "patch": 0
   },
-  "tags": {},
-  "logoURI": "https://chanass123.github.io/t8t-tokenlist/logo.png",
-  "keywords": ["T8T", "token", "polygon"],
+  "logoURI": "https://t8teabar.github.io/t8t-tokenlist/logo.png",
+  "keywords": ["T8T", "T8", "utility", "polygon", "erc20"],
   "tokens": [
     {
       "chainId": 137,
@@ -16,7 +15,7 @@
       "name": "T8T Official Token",
       "symbol": "T8T",
       "decimals": 18,
-      "logoURI": "https://chanass123.github.io/t8t-tokenlist/logo.png"
+      "logoURI": "https://t8teabar.github.io/t8t-tokenlist/logo.png"
     }
   ]
 }
