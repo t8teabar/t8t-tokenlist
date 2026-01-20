@@ -1,0 +1,254 @@
+T8T Utility Token Whitepaper
+(Non-Financial Use – Version 1.0)
+1. Introduction
+
+This document describes the technical design, functional scope, and intended non-financial use of the T8 / T8T Token (the “Token”).
+
+This whitepaper is provided solely for informational, technical, and operational reference purposes.
+It does not constitute an offer, solicitation, recommendation, or invitation to purchase, invest in, trade, or otherwise acquire any financial instrument, security, or investment product.
+
+The Token is designed strictly as a utility mechanism within specific closed and controlled application environments operated under the T8 ecosystem.
+
+2. Project Background
+
+The T8 project originates from the operation of physical beverage retail environments, where digital tools are used to enhance customer interaction, engagement, and experience.
+
+The T8 / T8T Token is developed as part of an internal digital utility framework supporting:
+
+Loyalty-style point interactions
+
+Controlled redemption of predefined goods
+
+Community engagement and recognition features
+
+Digital participation experiences linked to physical locations
+
+The project does not aim to create a financial product, investment platform, or speculative asset.
+
+3. Token Nature and Current Positioning
+
+At the time of publication of this whitepaper:
+
+The Token is implemented and positioned as a non-financial utility token
+
+The Token does not represent:
+
+Equity
+
+Debt
+
+Ownership interest
+
+Shareholding
+
+Voting rights
+
+The Token does not confer:
+
+Rights to profits or dividends
+
+Revenue sharing
+
+Asset appreciation
+
+Any form of financial return
+
+The Token is not intended to function as:
+
+Legal tender
+
+Electronic money
+
+A fiat substitute
+
+A financial instrument
+
+4. Intended Use Cases (Current Scope)
+
+Within its current operational scope, the Token may be used exclusively for the following non-financial utility purposes:
+
+4.1 Loyalty and Points-Based Interaction
+
+Recording user participation within T8-operated environments
+
+Internal points-style mechanisms associated with store activities
+
+Non-transferable or controlled exchanges within closed systems
+
+4.2 Physical Goods Redemption
+
+Exchange of Tokens for predefined physical goods, such as:
+
+Beverages offered at T8 retail locations
+
+Redemption values and rules are set internally and may vary by location or campaign
+
+4.3 Community Interaction and “Lucky Wall” Features
+
+Submission of images, text messages, or short video content
+
+Display of approved content on in-store digital screens (“Lucky Wall”)
+
+Recognition and engagement experiences that are non-financial in nature
+
+All submitted content is subject to moderation and approval mechanisms to prevent misuse, inappropriate material, or abuse.
+
+4.4 Digital Experiences
+
+Participation in non-financial digital experiences
+
+Access to visual recognition, acknowledgments, or interactive displays
+
+Engagement-driven features without monetary value
+
+All use cases operate within closed or semi-closed environments designated by the operating entities.
+
+5. Content Moderation and Operational Controls
+
+To maintain operational integrity and user safety:
+
+All user-generated content (images, text, videos) is subject to review
+
+Automated and manual moderation mechanisms may be applied
+
+Content that fails moderation criteria may be rejected or removed
+
+No entitlement or guarantee is associated with content display
+
+The Token does not grant any right to bypass moderation or enforcement processes.
+
+6. Explicit Exclusion of Financial Use
+
+The Token is explicitly excluded from the following activities:
+
+Investment or speculative purposes
+
+Fundraising or capital formation
+
+Public offerings
+
+Exchange for fiat currency
+
+Redemption for cash or equivalents
+
+Profit participation or yield generation
+
+Trading with expectation of value appreciation
+
+No marketing, communication, or system design is intended to create expectations of financial gain.
+
+7. Role of Participants and Contributors
+
+Technical contributors, developers, and system maintainers:
+
+Act solely in a technical, operational, or implementation capacity
+
+Do not act as:
+
+Issuers
+
+Promoters
+
+Financial intermediaries
+
+Investment advisors
+
+Do not determine:
+
+Economic policy
+
+Financial models
+
+Token valuation
+
+Commercial strategy
+
+All business, operational, and compliance decisions are made by the relevant operating entities.
+
+8. Governance and Operational Control
+
+Token issuance, allocation, and usage rules are governed by internal policies
+
+Operational control is exercised by designated operating entities
+
+No individual contributor has unilateral authority over:
+
+Token economics
+
+Supply policies
+
+Business application
+
+System designs may include separation of data layers between:
+
+Non-financial utility systems
+
+Revenue, accounting, or commercial reporting systems
+
+9. Compliance and Regulatory Considerations
+
+The project adopts a conservative, compliance-aware approach.
+
+The Token is currently positioned outside the scope of regulated financial products
+
+Regulatory interpretation may vary across jurisdictions
+
+Laws and guidance may evolve over time
+
+The operating entities continuously evaluate compliance implications and may restrict, adjust, or suspend functionalities where required.
+
+10. Forward-Looking Statements and Adjustments
+
+This whitepaper reflects the current design and use of the Token only.
+
+Subject to:
+
+Applicable laws and regulations
+
+Regulatory guidance
+
+Internal governance decisions
+
+Completion of audits or assessments
+
+The operating entities may:
+
+Modify functionality
+
+Limit or expand use cases
+
+Adjust operational parameters
+
+Maintain or discontinue features
+
+Nothing in this document constitutes a commitment to future functionality, financial features, or regulatory status.
+
+11. Disclaimer
+
+This whitepaper is provided “as is” for informational purposes only.
+
+No reliance should be placed on this document for:
+
+Financial decisions
+
+Investment decisions
+
+Legal determinations
+
+Participants are responsible for compliance with laws applicable in their respective jurisdictions.
+
+12. Conclusion
+
+The T8 / T8T Token is currently designed as a limited-scope, non-financial utility mechanism supporting defined operational use cases such as loyalty interactions, physical goods redemption, and community engagement.
+
+The project prioritizes:
+
+Transparency
+
+Operational clarity
+
+Compliance awareness
+
+User experience
+
+while remaining adaptable to future regulatory and business developments.
