@@ -1,0 +1,22 @@
+{
+  "name": "T8T Token List",
+  "timestamp": "2026-01-20T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://chanass123.github.io/t8t-tokenlist/logo.png",
+  "keywords": ["T8T", "token", "polygon"],
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0xe48bbC1EDdf85CE5ae2b3cbBC1174Aa068927579",
+      "name": "T8T Official Token",
+      "symbol": "T8T",
+      "decimals": 18,
+      "logoURI": "https://chanass123.github.io/t8t-tokenlist/logo.png"
+    }
+  ]
+}
